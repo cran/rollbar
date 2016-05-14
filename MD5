@@ -1,0 +1,14 @@
+7b9808ab5ab55bf5c563bb9917a15a3c *DESCRIPTION
+93dd37f729bc6a1b8370f99f3f56209d *LICENSE
+aa67fb55cfe886d04160a953220abfef *NAMESPACE
+ae52ee2257ec844f1be2ebc92858cf9b *NEWS.md
+f3c0033403c6325a967ec1ca504b91e9 *R/rollbar.R
+5fee58c0341dbee98ca66476c2da8985 *README.md
+302622803b87dbeca035f7fe3eaaa525 *man/rollbar.attach.Rd
+49a4fb5e8626888da55197f4e5bceef3 *man/rollbar.configure.Rd
+810b45ba819623eff0b36f7de0b7ddf2 *man/rollbar.critical.Rd
+e22cb7be5946cd4a12d1eab86d483e36 *man/rollbar.debug.Rd
+da106026744ad4d580f906ea80c52f2a *man/rollbar.error.Rd
+c92f0783e5c7cc81def99c1aa6357746 *man/rollbar.info.Rd
+9879089772075c23dc9ee68ee2ba7820 *man/rollbar.log.Rd
+f8263048593e12f0f548e2dd3f4a267f *man/rollbar.warning.Rd
